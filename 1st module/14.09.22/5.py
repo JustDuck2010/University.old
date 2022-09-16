@@ -1,4 +1,4 @@
-#program was written 15.09.22 in home by Igor B.
+#program was written 15.09.22 at home by Igor B.
 amo = 0
 a = int(input())
 b = a
