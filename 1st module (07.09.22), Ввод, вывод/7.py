@@ -1,5 +1,5 @@
 #program was written 07.09.22 in class by Igor B.
-a =int(input()) # часы1
+a = int(input()) # часы1
 b = int(input()) # минуты1
 c = int(input()) # секунды1
 d = int(input()) # часы2
