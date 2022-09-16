@@ -5,7 +5,7 @@
 #2000 -> 20
 #2001 -> 21
 
-a = int(input())
+a =int(input())
 q = 0
 b = a
 while b > 0:
