@@ -1,3 +1,4 @@
+#program was written 16.09.22 at home by Igor B.
 a =input()
 print(a.count(' ') + 1)
 
