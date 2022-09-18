@@ -1,2 +1,2 @@
 # University
-Python programs do while studying at the university
+Python programs I do while studying at the university
