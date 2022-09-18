@@ -1,2 +1,2 @@
 # University
-Python programs do while studying at the university
+The tasks are described at the end of the programs / Выполняемое задание пишется в конце программы
