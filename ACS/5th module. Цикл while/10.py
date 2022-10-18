@@ -10,5 +10,5 @@ for i in range(len(ar)):
         ab.append(ar[i])
     else:
         continue
-print(*ab)
+print(*ab
 #join() - метод
